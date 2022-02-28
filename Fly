@@ -23,7 +23,7 @@ local plr = game.Players.LocalPlayer
 
         local torso = workspace.Core
         flying = true
-        local speed=100
+        local speed=200
         local keys={a=false,d=false,w=false,s=false}
         local e1
         local e2
